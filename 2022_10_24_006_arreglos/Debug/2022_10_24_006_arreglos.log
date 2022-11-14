@@ -1,0 +1,7 @@
+﻿  2022_10_24_006_arreglos.cpp
+D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\2022_10_24_006_arreglos\2022_10_24_006_arreglos.cpp(13,10): warning C4101: 'vec2': variable local sin referencia
+D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\2022_10_24_006_arreglos\2022_10_24_006_arreglos.cpp(16,11): warning C4101: 'vec5': variable local sin referencia
+D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\2022_10_24_006_arreglos\2022_10_24_006_arreglos.cpp(12,9): warning C4101: 'vec1': variable local sin referencia
+D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\2022_10_24_006_arreglos\2022_10_24_006_arreglos.cpp(14,10): warning C4101: 'vec3': variable local sin referencia
+D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\2022_10_24_006_arreglos\2022_10_24_006_arreglos.cpp(17,12): warning C4101: 'vec6': variable local sin referencia
+  2022_10_24_006_arreglos.vcxproj -> D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\2022_10_24_006_arreglos\Debug\2022_10_24_006_arreglos.exe
