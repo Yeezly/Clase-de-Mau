@@ -42,13 +42,26 @@ int main()
     int matriz[2][3];
     int filas = (sizeof(matriz) / sizeof(matriz[0]));
     int columnas = (sizeof(matriz[0]) / sizeof(matriz[0][0]));
+    int respuesta = 0;
     srand(time(NULL));
+
+    // Mostrar coordenada
+
+    for (int i = 0; i < filas; i++)
+    {
+        for (int j = 0; j < columnas; j++)
+        {
+            std::cout << "Estás en la coordenada (" << i << ", " << j << ")" << std::endl;
+        }
+    }
 
     //entrada
     for (int i = 0; i < filas; i++)
     {
         for (int j = 0; j < columnas; j++)
         {
+            std::cout << "Estás en la coordenada (" << i << ", " << j << ")" << std::endl;
+            
             matriz[i][j] = 0;
         }
     }
