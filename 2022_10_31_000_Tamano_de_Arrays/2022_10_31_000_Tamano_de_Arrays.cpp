@@ -51,7 +51,7 @@ int main()
     {
         for (int j = 0; j < columnas; j++)
         {
-            std::cout << "Estás en la coordenada (" << i << ", " << j << ")" << std::endl;
+            std::cout << "Estas en la coordenada (" << i << ", " << j << ")" << std::endl;
         }
     }
 
