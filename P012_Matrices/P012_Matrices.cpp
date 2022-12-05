@@ -69,7 +69,7 @@ int main()
 		{
 			for (int j = 0; j < columna; j++)
 			{
-				std::cout << "Introduce los valores de [" << i << "] [" << j << "] :  << std::endl";
+				std::cout << "Introduce los valores de [" << i << "] [" << j << "] :"  << std::endl;
 				std::cin >> m_d[i][j];
 			}
 		}
@@ -80,10 +80,11 @@ int main()
 	{
 		for (int j = 0; j < columna; j++)
 		{
-			std::cout << m_d[i][j] << std::endl;
-
+			std::cout << m_d[i][j];
 		}
-	}
+		std::cout << std::endl;
+	} 
+	
 
 	return 0;
 }

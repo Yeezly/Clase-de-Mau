@@ -185,31 +185,36 @@ int main()
                 std::cin >> r4;
                 if (r4 == 1)
                 {
-                        std::cout << "Tu personaje es Viktor" << std::endl;
+                    std::cout << "Tu personaje es Viktor" << std::endl;
                 }
                 if (r4 == 2)
                 {
-                     std::cout << "No mientas, es Viktor" << std::endl;
+                    std::cout << "No mientas, es Viktor" << std::endl;
                 }
                 else
                 {
-                        std::cout << "Opcion ingresada no valida" << std::endl;
+                    std::cout << "Opcion ingresada no valida" << std::endl;
                 }
-            if (r3 == 2)
-            {
-                std::cout << "Tu personaje utiliza el brillo en la gente? " << std::endl;
-                std::cin >> r4;
-                if (r4 == 1)
+                if (r3 == 2)
                 {
+                    std::cout << "Tu personaje utiliza el brillo en la gente? " << std::endl;
+                    std::cin >> r4;
+                    if (r4 == 1)
+                    {
                         std::cout << "Tu personaje es Silco" << std::endl;
-                }
-                if (r4 == 2)
-                {
-                     std::cout << "No mientas, es Silco" << std::endl;
+                    }
+                    if (r4 == 2)
+                    {
+                        std::cout << "No mientas, es Silco" << std::endl;
+                    }
+                    else
+                    {
+                        std::cout << "Opcion ingresada no valida" << std::endl;
+                    }
                 }
                 else
                 {
-                     std::cout << "Opcion ingresada no valida" << std::endl;
+                    std::cout << "Opcion ingresada no valida" << std::endl;
                 }
             }
             else
@@ -227,7 +232,3 @@ int main()
         std::cout << "Opcion ingresada no valida" << std::endl;
     }
 }
-    else
-    {
-        std::cout << "Opcion ingresada no valida" << std::endl;
-    }
