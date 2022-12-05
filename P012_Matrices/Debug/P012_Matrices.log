@@ -1,0 +1,3 @@
+﻿  P012_Matrices.cpp
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P012_Matrices\P012_Matrices.cpp(41,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  P012_Matrices.vcxproj -> C:\Users\Mario\Documents\Uni\Proyectos Progra\P012_Matrices\Debug\P012_Matrices.exe

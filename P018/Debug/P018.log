@@ -1,0 +1,31 @@
+﻿  P018.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(15,18): error C3861: 'pow': no se encontró el identificador
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(22,10): error C2039: "cout": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(22,15): error C2065: 'cout': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(22,63): error C2039: "endl": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(22,67): error C2065: 'endl': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(23,10): error C2039: "cout": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(23,15): error C2065: 'cout': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(23,53): error C2039: "endl": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(23,57): error C2065: 'endl': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(24,10): error C2039: "cin": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(24,14): error C2065: 'cin': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(25,10): error C2039: "cout": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(25,15): error C2065: 'cout': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(25,62): error C2039: "endl": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(25,66): error C2065: 'endl': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(26,10): error C2039: "cin": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(26,14): error C2065: 'cin': identificador no declarado
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(27,10): error C2039: "cout": no es un miembro de "std"
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\predefined C++ types (compiler internal)(340): message : vea la declaración de 'std'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(27,15): error C2065: 'cout': identificador no declarado
+C:\Users\Mario\Documents\Uni\Proyectos Progra\P018\P018.cpp(18,5): error C2084: la función 'int main(void)' ya tiene un cuerpo
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(19): message : vea la definición anterior de 'main'
