@@ -30,7 +30,6 @@ int main()
     setlocale(LC_ALL, "spanish");
     int posnum = 0;
     int r1, r2, r3, r4, r5, r6, r7, r8, r9, r10, r11, r12, r13;
-    int res;
     std::string texto[19];
     //Inicio
     std::string Inicio = "El telefono negro$Una adaptacion de la antologia de cuentos de terror Fantasmas de Joe Hill$$Responde 1 o 2 para continuar";
@@ -809,7 +808,7 @@ int main()
                 std::cout << std::endl;
                 std::cin >> r4;
                 system("cls");
-                if (r4 == 1)
+                if (r4 == 1 || r4 == 2)
                 {
                     posnum = 5;
                     texto[posnum] = Acto5;
@@ -2195,8 +2194,5 @@ int main()
     {
         std::cout << "Eleccion no valida";
     }
-    
-
-    
 }
 

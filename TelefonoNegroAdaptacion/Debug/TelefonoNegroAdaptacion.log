@@ -1,5 +1,4 @@
 ﻿  TelefonoNegroAdaptacion.cpp
 D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\TelefonoNegroAdaptacion\TelefonoNegroAdaptacion.cpp(12,23): warning C4018: '<': no coinciden signed/unsigned
-D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\TelefonoNegroAdaptacion\TelefonoNegroAdaptacion.cpp(33,9): warning C4101: 'res': variable local sin referencia
 D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\TelefonoNegroAdaptacion\TelefonoNegroAdaptacion.cpp(32,60): warning C4101: 'r13': variable local sin referencia
   TelefonoNegroAdaptacion.vcxproj -> D:\DSI208\Escritorio\NOborrar_YessicaArrez\Clase-de-Mau\TelefonoNegroAdaptacion\Debug\TelefonoNegroAdaptacion.exe
